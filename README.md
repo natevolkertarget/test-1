@@ -1,3 +1,3 @@
-# Example repo for 12-17
+# Repo for Intermediate Class
 
-## Github intermediate class
+## December 17, 2014
