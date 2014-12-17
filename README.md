@@ -1,5 +1,3 @@
-# Example repo for Dec 17
+# Example repo for 12-17
 
 ## Github intermediate class
-
-This is a test
